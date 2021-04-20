@@ -1,3 +1,9 @@
-Classes: <br> 
-1) ferry_boat<br>
-<img src = "https://github.com/maha-prathamesh/Boat-Type-Classification-AI-Challenge/blob/main/Data_Sample/ferry_boat.jpg" width="200" height="200">
+# Project Flow : <br> 
+
+## UI <br>
+<img src = "https://github.com/maha-prathamesh/Web_Scraping/blob/main/Review_Classification_Scaping/images/UI_1.png" width="700" height="400">
+<img src = "https://github.com/maha-prathamesh/Web_Scraping/blob/main/Review_Classification_Scaping/images/UI_2.png" width="700" height="400">
+
+## Mongo DB Collection Details : <br>
+<img src = "https://github.com/maha-prathamesh/Web_Scraping/blob/main/Review_Classification_Scaping/images/MONGO_DB.png" width="700" height="400">
+<img src = "https://github.com/maha-prathamesh/Web_Scraping/blob/main/Review_Classification_Scaping/images/MONGO_DB_1.png" width="700" height="400">
